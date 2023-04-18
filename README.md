@@ -1,5 +1,19 @@
-# Getting Started with Create React App
+安裝所需套件
+```
+npm install 
+npm install react react-dom axios react-router-dom
+npm install --save-dev @types/react
 
+```
+開啟server
+```
+npm start
+```
+
+Client ID
+7fc3f43268973a536fb4
+a7bda8ca97045e98963ea07a39b27b1158a6b753
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
